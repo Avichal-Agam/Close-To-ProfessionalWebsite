@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Kolker+Brush&family=Love+Light&family=Merienda&family=Monoton&family=Moo+Lah+Lah&family=Ole&family=Playball&family=Syncopate&display=swap');
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+h1{
+  color: #66BFBF;
+  margin: 0 auto;
+  font-family: 'Love Light', cursive;
+  font-size: 90px;
+  font-weight: normal;
+}
+h2{
+  color: #66BFBF;
+  font-size: 30px;
+  font-family: 'Playball', cursive;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  align-items: center;
+  font-family: 'Merienda', cursive;
+
+}
+h4{
+  font-size: 30px;
+  font-family: 'Playball', cursive;
+}
+p{
+  font-size: 18px;
+  font-weight: normal;
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #11999E;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 30px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container{
+  background-color: #FFE3E3;
+  margin: 0 auto;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.middle-container{
+  padding-top: 10px;
+  margin-bottom: 30px ;
+}
+
+.bottom-container{
+
+  background-color: #66BFBF;
+  line-height: 3;
+}
+.myImg{
+  width:300px;
+  height:300px;
+}
+.top-cloud{
+  margin: 30px auto 0 -30px;
+  position: relative;
+  right: -250px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.game-console{
+  width: 18%;
+  float: right;
+  margin: auto 30px;
+}
+.gif{
+  width: 35%;
+  float: left;
+  margin: 70px 20px 30px 0;
+}
+.reg{
+  font-family: 'Syncopate', sans-serif;
+  font-size: 10px;
+  color: #EAF6F6;
+  margin-bottom: 0;
+
+}
+.mountain{
+  width: 690px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Moo Lah Lah', cursive;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 40px;
+  border-width: 0;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.skills-description{
+  clear: right;
+}
